@@ -2,13 +2,13 @@
 
 A simple web-application with coffee and tea coctail recipes 
 
-## Build
+### Build
 ```
 git clone https://github.com/t-pyrope/kafftejl.git
 cd kaffteil
 npm install
 ```
-Running the application in the development mode
+### Running the application in the development mode
 
 `npm start`
 
