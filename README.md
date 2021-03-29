@@ -1,6 +1,8 @@
 # Kofftejl
 
-A simple web-application with coffee and tea coctail recipes 
+A simple web-application with coffee and tea coctail recipes
+
+I'm using API of [TheCoctailDB](https://www.thecocktaildb.com/api.php), which is free for development stage use
 
 ### Build
 ```
